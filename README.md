@@ -11,4 +11,5 @@ Data extraction and transformation is completed in three parts in the Python not
 
 3. Working with the Contact file, we chose to use Option 1 (pandas) to extract the data into a dataframe. From there we split the name filed into ‘first_name’ and ‘last_name’ and reordered the columns. Finally, we dropped the ‘name’ column for clarity in our dataframe.
 
-4. With our newly created CSV files, we created our ERD for our database schema. We used the schema to create our Postgres database ‘crowdfunding_db’. We then loaded our CSV files into the tables and ran Select * statements to confirm the files loaded correctly onto our tables. 
+Create the Crowdfunding Database
+With our newly created CSV files, we created our ERD for our database schema. We used the schema to create our Postgres database ‘crowdfunding_db’. We then loaded our CSV files into the tables and ran Select * statements to confirm the files loaded correctly onto our tables. 
