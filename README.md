@@ -13,4 +13,6 @@ Data extraction and transformation is completed in three parts in the Python not
 
 Create the Crowdfunding Database:
 
-With our newly created CSV files, we created our ERD for our database schema. We used the schema to create our Postgres database ‘crowdfunding_db’. We then loaded our CSV files into the tables and ran Select * statements to confirm the files loaded correctly onto our tables. 
+With our newly created CSV files (located in our Resources folder), we created our ERD for our database schema. We used the schema to create our Postgres database ‘crowdfunding_db’. We then loaded our CSV files into the tables and ran Select * statements to confirm the files loaded correctly onto our tables. 
+
+Screenshots of our Select Statements and the ERD are located in the Screenshots folder. 
